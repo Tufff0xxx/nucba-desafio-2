@@ -7,7 +7,7 @@ nav{
 }
 ul{
     list-style: none;
-    color: white;
+    color:  white;
 }
 body{
     font-family: Arial, Helvetica, sans-serif;
@@ -24,4 +24,8 @@ body{
     width: 50px;
     background-color: black;
     background-image: none;
+}
+.navBar a{
+    color: yellow;
+    
 }
